@@ -1,0 +1,83 @@
+City selected: A1
+Possible cities to where to travel: A2, B1
+Cities at the end of possible paths: B1(966) A2(992)
+
+City selected: B1
+Possible cities to where to travel: A1, B2, D1
+Cities at the end of possible paths: A2(992) B2(1009) D1(1044)
+
+City selected: A2
+Possible cities to where to travel: A1, A4, B2
+Cities at the end of possible paths: B2(1009) D1(1044) A4(1207)
+
+City selected: B2
+Possible cities to where to travel: A2, B1, C2, C3
+Cities at the end of possible paths: C2(1018) D1(1044) C3(1046) A4(1207)
+
+City selected: C2
+Possible cities to where to travel: B2, C3, D2
+Cities at the end of possible paths: D1(1044) C3(1046) D2(1058) A4(1207)
+
+City selected: D1
+Possible cities to where to travel: B1, D2, F1
+Cities at the end of possible paths: C3(1046) D2(1058) F1(1137) A4(1207)
+
+City selected: C3
+Possible cities to where to travel: B2, C2, C4
+Cities at the end of possible paths: D2(1058) F1(1137) C4(1163) A4(1207)
+
+City selected: D2
+Possible cities to where to travel: C2, D1, F2
+Cities at the end of possible paths: F2(1129) F1(1137) C4(1163) A4(1207)
+
+City selected: F2
+Possible cities to where to travel: D2, E4, F1, G2b
+Cities at the end of possible paths: F1(1137) C4(1163) A4(1207) E4(1229) G2b(1277)
+
+City selected: F1
+Possible cities to where to travel: D1, F2, G1
+Cities at the end of possible paths: C4(1163) A4(1207) E4(1229) G2b(1277) G1(1292)
+
+City selected: C4
+Possible cities to where to travel: B4, C3, D4
+Cities at the end of possible paths: D4(1164) A4(1207) E4(1229) G2b(1277) G1(1292) B4(1353)
+
+City selected: D4
+Possible cities to where to travel: C4, D3, D5, E4
+Cities at the end of possible paths: E4(1171) A4(1207) D5(1251) G2b(1277) G1(1292) B4(1353) D3(1360)
+
+City selected: E4
+Possible cities to where to travel: D4, E5, F2
+Cities at the end of possible paths: E5(1177) A4(1207) D5(1251) G2b(1277) G1(1292) B4(1353) D3(1360)
+
+City selected: E5
+Possible cities to where to travel: E4, F5, G4b
+Cities at the end of possible paths: A4(1207) F5(1217) D5(1251) G2b(1277) G1(1292) B4(1353) D3(1360) G4b(1372)
+
+City selected: A4
+Possible cities to where to travel: A2, A5, B5
+Cities at the end of possible paths: B5(1208) F5(1217) D5(1251) G2b(1277) G1(1292) A5(1292) B4(1353) D3(1360) G4b(1372)
+
+City selected: B5
+Possible cities to where to travel: A4, B4, C5
+Cities at the end of possible paths: F5(1217) C5(1222) B4(1248) D5(1251) G2b(1277) G1(1292) A5(1292) D3(1360) G4b(1372)
+
+City selected: F5
+Possible cities to where to travel: D5, E5, G5
+Cities at the end of possible paths: G5(1217) C5(1222) B4(1248) D5(1251) G2b(1277) G1(1292) A5(1292) D3(1360) G4b(1372)
+
+City selected: G5
+Possible cities to where to travel: F5, G4
+Cities at the end of possible paths: C5(1222) B4(1248) D5(1251) G2b(1277) G1(1292) A5(1292) D3(1360) G4b(1372)
+
+The final solution path is: 
+From A1 to B1. Length: 177
+From B1 to B2. Length: 113
+From B2 to C3. Length: 131
+From C3 to C4. Length: 155
+From C4 to D4. Length: 215
+From D4 to E4. Length: 137
+From E4 to E5. Length: 110
+From E5 to F5. Length: 81
+From F5 to G5. Length: 96
+Total Length: 1217

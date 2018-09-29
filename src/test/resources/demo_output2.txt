@@ -1,0 +1,125 @@
+City selected: A1
+Possible cities to where to travel: A2, B1
+Cities at the end of possible paths: A2(2) B1(2)
+
+City selected: A2
+Possible cities to where to travel: A1, A4, B2
+Cities at the end of possible paths: B1(2) A4(3) B2(3)
+
+City selected: B1
+Possible cities to where to travel: A1, B2, D1
+Cities at the end of possible paths: A4(3) B2(3) D1(3)
+
+City selected: A4
+Possible cities to where to travel: A2, A5, B5
+Cities at the end of possible paths: B2(3) D1(3) A5(4) B5(4)
+
+City selected: B2
+Possible cities to where to travel: A2, B1, C2, C3
+Cities at the end of possible paths: D1(3) A5(4) B5(4) C2(4) C3(4)
+
+City selected: D1
+Possible cities to where to travel: B1, D2, F1
+Cities at the end of possible paths: A5(4) B5(4) C2(4) C3(4) D2(4) F1(4)
+
+City selected: A5
+Possible cities to where to travel: A4, C5
+Cities at the end of possible paths: B5(4) C2(4) C3(4) D2(4) F1(4) C5(5)
+
+City selected: B5
+Possible cities to where to travel: A4, B4, C5
+Cities at the end of possible paths: C2(4) C3(4) D2(4) F1(4) C5(5) B4(5)
+
+City selected: C2
+Possible cities to where to travel: B2, C3, D2
+Cities at the end of possible paths: C3(4) D2(4) F1(4) C5(5) B4(5)
+
+City selected: C3
+Possible cities to where to travel: B2, C2, C4
+Cities at the end of possible paths: D2(4) F1(4) C5(5) B4(5) C4(5)
+
+City selected: D2
+Possible cities to where to travel: C2, D1, F2
+Cities at the end of possible paths: F1(4) C5(5) B4(5) C4(5) F2(5)
+
+City selected: F1
+Possible cities to where to travel: D1, F2, G1
+Cities at the end of possible paths: C5(5) B4(5) C4(5) F2(5) G1(5)
+
+City selected: C5
+Possible cities to where to travel: A5, B5, D5
+Cities at the end of possible paths: B4(5) C4(5) F2(5) G1(5) D5(6)
+
+City selected: B4
+Possible cities to where to travel: B3, B5, C4
+Cities at the end of possible paths: C4(5) F2(5) G1(5) D5(6) B3(6)
+
+City selected: C4
+Possible cities to where to travel: B4, C3, D4
+Cities at the end of possible paths: F2(5) G1(5) D5(6) B3(6) D4(6)
+
+City selected: F2
+Possible cities to where to travel: D2, E4, F1, G2b
+Cities at the end of possible paths: G1(5) D5(6) B3(6) D4(6) E4(6) G2b(6)
+
+City selected: G1
+Possible cities to where to travel: F1, G2
+Cities at the end of possible paths: D5(6) B3(6) D4(6) E4(6) G2b(6) G2(6)
+
+City selected: D5
+Possible cities to where to travel: C5, D4, F5
+Cities at the end of possible paths: B3(6) D4(6) E4(6) G2b(6) G2(6) F5(7)
+
+City selected: B3
+Possible cities to where to travel: B4
+Cities at the end of possible paths: D4(6) E4(6) G2b(6) G2(6) F5(7)
+
+City selected: D4
+Possible cities to where to travel: C4, D3, D5, E4
+Cities at the end of possible paths: E4(6) G2b(6) G2(6) F5(7) D3(7)
+
+City selected: E4
+Possible cities to where to travel: D4, E5, F2
+Cities at the end of possible paths: G2b(6) G2(6) F5(7) D3(7) E5(7)
+
+City selected: G2b
+Possible cities to where to travel: F2, G2, G4b
+Cities at the end of possible paths: G2(6) F5(7) D3(7) E5(7) G4b(7)
+
+City selected: G2
+Possible cities to where to travel: G1, G2b, G4
+Cities at the end of possible paths: F5(7) D3(7) E5(7) G4b(7) G4(7)
+
+City selected: F5
+Possible cities to where to travel: D5, E5, G5
+Cities at the end of possible paths: D3(7) E5(7) G4b(7) G4(7) G5(8)
+
+City selected: D3
+Possible cities to where to travel: D4
+Cities at the end of possible paths: E5(7) G4b(7) G4(7) G5(8)
+
+City selected: E5
+Possible cities to where to travel: E4, F5, G4b
+Cities at the end of possible paths: G4b(7) G4(7) G5(8)
+
+City selected: G4b
+Possible cities to where to travel: E5, G2b, G4
+Cities at the end of possible paths: G4(7) G5(8)
+
+City selected: G4
+Possible cities to where to travel: G2, G4b, G5
+Cities at the end of possible paths: G5(8)
+
+City selected: G5
+Possible cities to where to travel: F5, G4
+Cities at the end of possible paths:
+
+The final solution path is:
+From A1 to A2. Length: 1
+From A2 to A4. Length: 1
+From A4 to A5. Length: 1
+From A5 to C5. Length: 1
+From C5 to D5. Length: 1
+From D5 to F5. Length: 1
+From F5 to G5. Length: 1
+Total Length: 7
